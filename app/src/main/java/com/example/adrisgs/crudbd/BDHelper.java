@@ -7,6 +7,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class BDHelper extends SQLiteOpenHelper {
 
 
+        //comentario para cambiar el git
         // If you change the database schema, you must increment the database version.
         public static final int DATABASE_VERSION = 1;
         public static final String DATABASE_NAME = "Datos_personales.db";
